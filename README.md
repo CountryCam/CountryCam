@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cameron Edwards
 - 👀 I’m interested in ... Making Games, Football, Basketball, Gym, UFC, Boxing, Food!
-- 🌱 I’m currently learning ...C++, C#, HTML, Python, ASP.NET, JAVA
+- 🌱 I know ...C++, C#, HTML, Python, ASP.NET, JAVA
 - 💞️ I’m looking to collaborate on ...Unreal Engine, Unity, Game Projects
 - 📫 How to reach me ... cameronedwards1993@hotmail.co.uk 
 
